@@ -1,4 +1,4 @@
-# Fun Project
+# Fundamentals Project
 ## Core Concepts
 
 *Java application to cover core concepts.*
